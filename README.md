@@ -1,5 +1,5 @@
 # Experts-DIO
-Projeto em microsserviços com arquitetura Java e SpringCloud
+Projeto em microserviços com arquitetura Java e SpringCloud
 
 ## Projeto DIO Microsserviços com Spring Cloud
 
